@@ -17,7 +17,7 @@ int main(void)
 		{
 			counter += c;
 		}
-		a =b;
+		a = b;
 		b = c;
 		c = a + b;
 	}
